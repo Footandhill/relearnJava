@@ -1,8 +1,9 @@
 package com.work.base;
 
 /**
- * @author 常量的创建和使用
- *
+ * @author 郭英杰
+ * @version 1.0(1/3)
+ * @注释：常量的创建和使用
  */
 public class javaConstants {
 //    静态常量
