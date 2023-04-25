@@ -77,10 +77,6 @@ public class method {
         System.out.println(words5.charAt(1));    // 结果：o
         System.out.println(words5.charAt(8));    // 结果：n
         System.out.println("-----------------------------------------");
-        System.out.println("-----------------------------------------");
-
-
-
 
     }
 
